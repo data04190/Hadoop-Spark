@@ -1,6 +1,6 @@
 # DataMining_Hadoop&Spark
 
-- JAVA 환경 구축과 Hadoop 설치
+- JAVA, Hadoop, Spark 설치
    - JAVA 설치
    
      ```
