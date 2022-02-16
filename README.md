@@ -10,7 +10,7 @@
      
     - Hadoop 설치
     
-      https://hadoop.apache.org/releases.html (버전 확인) 
+      https://hadoop.apache.org/releases.html (하둡 버전 확인) 
       
       
       ```
