@@ -1,6 +1,6 @@
 # DataMining_Hadoop&Spark
 
-- JAVA, Hadoop, Spark 설치
+- JAVA, Hadoop 설치
    - JAVA 1.8 설치
    
      ```
@@ -18,4 +18,4 @@
       tar xvzf hadoop-3.3.1.tar.gz
       mv hadoop-3.3.1 hadoop
       ```
-   - Spark ver. 3.2.0 설치      
+       
